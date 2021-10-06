@@ -1,5 +1,8 @@
+# How to download:
+Press the green "Code" button, click "Download ZIP", then extract the ZIP once it has downloaded.
+
 # How to use:
-Simply download and run the .jar file. Click the button to select a .ric file, and press Convert to convert to .png. *The .png file will be saved in the same folder/location as the .ric file you just converted.*
+Simply run the .jar file that was extracted from the ZIP. Click the button to select a .ric file, and press Convert to convert to .png. *The .png file will be saved in the same folder/location as the .ric file you just converted.*
 
 I hope you enjoy using this useful tool!
 
