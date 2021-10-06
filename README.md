@@ -4,7 +4,7 @@ Press the green "Code" button, click "Download ZIP", then extract the ZIP once i
 # How to use:
 Simply run the .jar file that was extracted from the ZIP. You may get a warning about an unsafe file; simply click "Continue", "Run Anyway", etc.
 
-Click the "Convert .RIC file..." button to select a .ric file, and press "Convert" to convert to .png. *The .png file will be saved in the same folder/location as the .ric file you just converted.*
+When the applet is open click the "Convert .RIC file..." button to select a .ric file, and press "Convert" to convert to .png. *The .png file will be saved in the same folder/location as the .ric file you just converted.*
 
 I hope you enjoy using this useful tool!
 
