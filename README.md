@@ -12,7 +12,7 @@ I hope you enjoy using this useful tool!
 The .jar file does not run.
 -  Make sure you have the latest version of Java installed.
 
-Conversion does not work.
+The conversion did not work.
 - RICtoPNG will only convert Mindstorms NXT .ric Image Files. Other file types will not be converted.
 
 The converted image is blurry.
