@@ -8,7 +8,7 @@ When the applet is open, click the "Convert .RIC file..." button to select a .ri
 
 I hope you enjoy using this useful tool!
 
-# Troubleshooting
+# Troubleshooting:
 The .jar file does not run.
 -  Make sure you have the latest version of Java installed.
 
@@ -17,3 +17,11 @@ The conversion did not work.
 
 The converted image is blurry.
 - Images are converted at their original low resolution and some photo apps will blur them on purpose. Open the .png in an image-editing tool like Microsoft Paint to see the image without blur. Or, use an image upscaling tool online to increase the resolution.
+
+# Version history:
+1.0
+- Initial release.
+
+1.1
+- Added support for multiple file selection.
+- Other minor improvements.
