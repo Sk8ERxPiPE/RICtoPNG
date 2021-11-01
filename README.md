@@ -4,7 +4,7 @@ Press the green "Code" button, click "Download ZIP", then extract the ZIP once i
 # How to use:
 Simply run the .jar file that was extracted from the ZIP. You may get a warning about an unsafe file; simply click "Continue", "Run Anyway", etc.
 
-When the app is open, click the "Convert .RIC file..." button to select a .ric file, and press "Convert" to convert it to a .png image. If you hold down Ctrl (or Cmd on Mac) while clicking, you can select multiple files. *The .png image will be saved in the same folder/location as the .ric file you just converted.*
+When the app is open, click the "Convert .RIC file..." button to select a .ric file, and press "Convert" to convert it to a .png image. If you hold down Ctrl (or Cmd on Mac) while clicking, you can select multiple files. *The .png image(s) will be saved in the same folder/location as the .ric file(s) you just converted.*
 
 I hope you enjoy using this useful tool!
 
