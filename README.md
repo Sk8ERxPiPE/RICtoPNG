@@ -29,3 +29,4 @@ The converted image is blurry.
 1.2
 - Improved look-and-feel. The app will now automatically match look and feel depending on the system you run it on.
 - Added multithreading for much faster performance.
+- Added custom app icon.
